@@ -1,0 +1,14 @@
+[homepage]
+#  layout = "profile"
+  layout = "background"
+  showRecent = true
+  showRecentItems = 5
+  homepageImage = "images/background.jpg"
+  layoutBackgroundBlur = false
+  
+[author]
+  name = "Felipe Silveira"
+  image = "avatar.jpg"
+  headline = "Vale mais um log na mão do que dois usuários descrevendo o problema"
+[assets]
+  favicon = "favicon.png"

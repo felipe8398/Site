@@ -1,0 +1,9 @@
+baseURL = 'https://cadeolog.com.br/'
+locale = 'pt-br'
+title = 'Felipe Silveira'
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+theme = "blowfish"
+[taxonomies]
+  category = "categories"
+  tag = "tags"

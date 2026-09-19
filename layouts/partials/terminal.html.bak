@@ -1,0 +1,91 @@
+<div class="terminal">
+  <div class="terminal-header">
+    <span class="terminal-dot red"></span>
+    <span class="terminal-dot yellow"></span>
+    <span class="terminal-dot green"></span>
+  </div>
+
+  <div class="terminal-body">
+    <div>
+      <span class="terminal-prompt">┌──(felipe㉿cadeolog)-[~]</span>
+    </div>
+
+    <div>
+      <span class="terminal-prompt">└─$</span>
+      <span id="terminal-command"></span><span class="terminal-cursor">█</span>
+    </div>
+
+    <div id="terminal-output"></div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const command = document.getElementById("terminal-command");
+  const output = document.getElementById("terminal-output");
+
+  const commands = [
+    {
+      command: "whoami",
+      output: "felipe"
+    },
+    {
+      command: "cat interests.txt",
+      output: "cybersecurity<br>linux<br>cloud<br>ctf"
+    },
+    {
+      command: "echo $LOCATION",
+      output: "Brazil"
+    }
+  ];
+
+  let index = 0;
+
+  function typeCommand(text, callback) {
+    let i = 0;
+
+    command.textContent = "";
+
+    const timer = setInterval(function () {
+
+      command.textContent += text.charAt(i);
+      i++;
+
+      if (i >= text.length) {
+        clearInterval(timer);
+        setTimeout(callback, 700);
+      }
+
+    }, 70);
+  }
+
+  function run() {
+
+    const current = commands[index];
+
+    typeCommand(current.command, function () {
+
+      output.innerHTML =
+        '<div class="terminal-output">' +
+        current.output +
+        '</div>';
+
+      setTimeout(function () {
+
+        command.textContent = "";
+        output.innerHTML = "";
+
+        index = (index + 1) % commands.length;
+
+        run();
+
+      }, 2500);
+
+    });
+  }
+
+  run();
+
+});
+</script>
