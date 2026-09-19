@@ -6,7 +6,7 @@ categories:
   - Blue Team
 tags:
   - Blue Team
-draft: false
+draft: true
 ---
 
 ## Introdução

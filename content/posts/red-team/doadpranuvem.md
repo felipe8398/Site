@@ -7,7 +7,7 @@ categories:
 tags:
   - Red Team
   - Cybersecurity
-draft: false
+draft: true
 ---
 ## Introdução
 
