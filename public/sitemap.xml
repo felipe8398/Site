@@ -9,6 +9,9 @@
     <loc>http://localhost:1313/about/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
   </url>
 </urlset>
