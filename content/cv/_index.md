@@ -4,36 +4,52 @@
 
 ## Sobre Mim
 
-Sou um profissional movido por desafios e apaixonado por cibersegurança, com sólida experiência em Resposta a Incidentes e Análise Forense. Ao longo da minha trajetória, atuei em ambientes críticos utilizando tecnologias líderes de mercado, contribuindo diretamente para a detecção e mitigação de ameaças.
+Profissional de Cibersegurança com sólida experiência em Resposta a Incidentes e Threat Hunting, atuando em ambientes críticos e utilizando tecnologias líderes de mercado.
 
-Tenho forte interesse por Segurança Ofensiva, e venho expandindo meu conhecimento no contexto de Purple Team e Threat Hunting, buscando unir o melhor do Red e do Blue Team em prol da defesa proativa.
+Experiência na detecção, investigação e mitigação de incidentes de segurança, com forte interesse e desenvolvimento contínuo em Resposta a Incidentes, Purple Team e Threat Hunting. Conhecimento voltado à integração entre técnicas de Red Team e Blue Team para aprimorar capacidades de detecção, investigação e defesa proativa.
 
-Meu objetivo é atuar como Analista de Segurança da Informação Sênior, com foco em Resposta a Incidentes, ou integrar um Purple Team / Threat Hunting Team em posição Sênior, onde eu possa aplicar minha expertise técnica..
+Objetivo profissional: atuar em posição de Especialista ou Sênior nas áreas de Incident Response, Purple Team ou Threat Hunting, aplicando experiência técnica e capacidade analítica na identificação e resposta a ameaças cibernéticas.
 
 ## Experiência
 
+Consultor de Segurança da Informação - Threat Hunting - Vivo (Telefônica Brasil)
 
+📅 02/2026 - Presente Momento
 
-
-Analista de Segurança da Informação Sênior - Threat Hunting
-Vivo (Telefônica Brasil)
-📅 08/2023 - 02/2026
-
-- Condução de investigações completas de incidentes de segurança e atividades maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR.
-- Desenvolvimento de estratégias de hardening e resposta para ambientes críticos.
+- Criação da lógica da engenharia de detecção no ambiente On-premises e Cloud.
+- Busca proativa e orientada por hipótese de Threat Actors.
 - Realização de Threat Hunting proativo, com elaboração de hipóteses e análises comportamentais.
 - Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a incidentes.
+- Desenvolvimento de estratégias de hardening e resposta para ambientes críticos.
 
-Analista de Segurança da Informação Pleno - Resposta a Incidentes
-Vivo (Telefônica Brasil)
-📅 02/2022 - 07/2023
+Analista de Segurança da Informação Sênior - Threat Hunting - Vivo (Telefônica Brasil)
+
+📅 08/2025 - 02/2026
+
+- Criação da lógica da engenharia de detecção no ambiente On-premises e Cloud.
+- Busca proativa e orientada por hipótese de Threat Actors.
+- Realização de Threat Hunting proativo, com elaboração de hipóteses e análises comportamentais.
+- Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a incidentes.
+- Desenvolvimento de estratégias de hardening e resposta para ambientes críticos.
+
+Analista de Segurança da Informação Sênior - Resposta a Incidentes - Vivo (Telefônica Brasil)
+
+📅 10/2023 - 07/2025
 
 - Condução de investigações completas de incidentes de segurança e atividades maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR..
 - Realização de Threat Hunting proativo, com elaboração de hipóteses e análises comportamentais.
 - Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a incidentes.
 
-Analista de Segurança da Informação Pleno - Resposta a Incidentes
-Locaweb
+Analista de Segurança da Informação Pleno - Resposta a Incidentes - Vivo (Telefônica Brasil)
+
+📅 02/2022 - 09/2023
+
+- Condução de investigações completas de incidentes de segurança e atividades maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR..
+- Realização de Threat Hunting proativo, com elaboração de hipóteses e análises comportamentais.
+- Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a incidentes.
+
+Analista de Segurança da Informação Pleno - Resposta a Incidentes - Locaweb
+
 📅 07/2021 - 01/2022
 
 - Tratar incidentes de segurança atuando em todas as etapas do ciclo
@@ -44,8 +60,8 @@ Locaweb
 - Análise de tráfego e mitigação de ataques de DDoS
 - Execução de projetos de segurança da informação
 
-Analista de Segurança da Informação Pleno - SOC
-Locaweb
+Analista de Segurança da Informação Pleno - SOC - Locaweb
+
 📅 07/2019 - 06/2021
 
 - Tratar incidentes de segurança atuando em todas as etapas do ciclo
@@ -63,21 +79,22 @@ Locaweb
 - Graduação: Tecnologia em Redes de Computadores – Senac (2015 - 2017)
 
 ## Certificações
-Junior Penetration Tester (PT1)
-Certified Red Team Professional (CRTP)
-CompTIA CySA+
-CompTIA PenTest+
-eJPT
-INE Certified Cloud Associate
-Guardicore Certified Segmentation Administrator
-Guardicore Certified Segmentation Engineer
-AWS Certified Solutions Architect – Associate
-AWS Certified Cloud Practitioner
-EC-Council ECIH
-GitLab Certified Associate
-EXIN Information Security Foundation based on ISO IEC 27001
-EXIN Cloud Computing Foundation Certificate
-Microsoft SC-900
-Microsoft AZ-900
-COBIT 5 Foundation
-ITIL 3 Foundation Certificate in IT Service Management
+- Oracle Cloud Infrastructure Certified Foundations Associate
+- Junior Penetration Tester (PT1)
+- Certified Red Team Professional (CRTP)
+- CompTIA CySA+
+- CompTIA PenTest+
+- eJPT
+- INE Certified Cloud Associate
+- Guardicore Certified Segmentation Administrator
+- Guardicore Certified Segmentation Engineer
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- EC-Council ECIH
+- GitLab Certified Associate
+- EXIN Information Security Foundation based on ISO IEC 27001
+- EXIN Cloud Computing Foundation Certificate
+- Microsoft SC-900
+- Microsoft AZ-900
+- COBIT 5 Foundation
+- ITIL 3 Foundation Certificate in IT Service Management
