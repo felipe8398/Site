@@ -4,18 +4,11 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/red-team/doadpranuvem/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/blue-team/primeiro-post/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-09-19T00:00:00+00:00</lastmod>
   </url>
 </urlset>
